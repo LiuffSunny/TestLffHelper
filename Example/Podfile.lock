@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LffHealper (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LffHealper (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  LffHealper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LffHealper: f6858fb848dcdc720ec4ea17dda31e459b93d37c
+
+PODFILE CHECKSUM: 6a6f6d80bbe4070026194764bc764673236ff00a
+
+COCOAPODS: 1.6.1

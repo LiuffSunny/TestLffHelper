@@ -1,0 +1,6 @@
+framework module LffHealper {
+  umbrella header "LffHealper-umbrella.h"
+
+  export *
+  module * { export * }
+}
