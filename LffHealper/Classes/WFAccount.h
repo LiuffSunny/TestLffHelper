@@ -11,7 +11,7 @@
 @interface WFAccount : NSObject<NSCoding>
 /** 姓名*/
 @property (nonatomic, copy) NSString *userName;
-/** 用户ID*/
+/** 用户ID11111111*/
 @property (nonatomic, copy) NSString *userId;
 /// token
 @property (nonatomic, copy) NSString *accessToken;
