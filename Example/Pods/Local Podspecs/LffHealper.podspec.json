@@ -1,9 +1,9 @@
 {
   "name": "LffHealper",
   "version": "0.1.0",
-  "summary": "A short description of LffHealper.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/LiuffSunny/LffHealper",
+  "summary": "LffHealper",
+  "description": "TODO: 测试组件化podspec.",
+  "homepage": "https://github.com/LiuffSunny/TestLffHelper",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "LiuffSunny": "liuffSunny@163.com"
   },
   "source": {
-    "git": "https://github.com/LiuffSunny/LffHealper.git",
+    "git": "https://github.com/LiuffSunny/TestLffHelper.git",
     "tag": "0.1.0"
   },
   "platforms": {
