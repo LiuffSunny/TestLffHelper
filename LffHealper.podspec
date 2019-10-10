@@ -20,7 +20,7 @@ TODO: 测试0.2.0.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'LiuffSunny' => 'liuffSunny@163.com' }
   s.source           = { :git => 'https://github.com/LiuffSunny/TestLffHelper.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  # s.social_media_url = 'https://www.baidu.com'
 
   s.ios.deployment_target = '8.0'
 
